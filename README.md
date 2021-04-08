@@ -3,8 +3,8 @@
 This clone-of-a-clone is an adaption of the breadboard and through-hole parts-friendly Boarduino by Lady Ada. The orginal Boarduino design was slightly tweaked to accomodate a crystal oscillator (instead of a ceramic resonator) due to sourcing issues.   
 
 ## Boarduino, boarduino-like products, and related resources 
-1. [DC and USB Boarduino kits and assembly tutorial by Lada Ada, Adafruit Industies](https://learn.adafruit.com/boarduino-kits) 
-2. [Really Bare Bones Board (RBBB) by Modern Device](https://moderndevice.com/product/rbbb-kit/) Their document on assembly instructions includes a great section for soldering novices.
+1. [DC and USB Boarduino kits and assembly tutorial by Lada Ada, Adafruit Industries](https://learn.adafruit.com/boarduino-kits). 
+2. [Really Bare Bones Board (RBBB) by Modern Device](https://moderndevice.com/product/rbbb-kit/). Their document on assembly instructions includes a great section for soldering novices.
  
 ## Hardware License
 The design files are made available under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

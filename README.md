@@ -1,5 +1,5 @@
 # Boarduino Clone 
-<a href="https://github.com/kalyaninagaraj/Boarduino-Clone/Images/topview.png"><img src="Images/topview.png?raw=true" width="400px"></a>&nbsp;&nbsp; <a href="https://github.com/kalyaninagaraj/Boarduino-Clone/Images/bottomview.png"><img src="Images/bottomview.png?raw=true" width="400px"></a><br />
+<a href="https://github.com/kalyaninagaraj/Boarduino-Clone/blob/main/Images/topview.png"><img src="Images/topview.png?raw=true" width="400px"></a>&nbsp;&nbsp; <a href="https://github.com/kalyaninagaraj/Boarduino-Clone/blob/main/Images/bottomview.png"><img src="Images/bottomview.png?raw=true" width="400px"></a><br />
 
 This clone-of-a-clone is an adaption of the breadboard and through-hole parts-friendly Boarduino by Lady Ada. The orginal Boarduino design was slightly tweaked to accomodate a crystal oscillator instead (of a ceramic resonator) due to sourcing issues.  
 

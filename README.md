@@ -7,7 +7,7 @@ The orginal Boarduino was designed with a ceramic resonator in mind, which isn't
 ## Final Product
 Check out this [blinking LED demo](https://youtu.be/2WAObtuopfo) for a look at the final (manufactured and assembled) board. 
 
-## A Note On The Microcontroller 
+### A Note On The Microcontroller 
 I could only manage to get my hands on a [ATMEGA328-PU](https://www.microchip.com/wwwproducts/en/ATMEGA328), and not the Arduino-supported [ATMEGA328P-PU](https://www.microchip.com/wwwproducts/en/ATMEGA328P), which means bootloading troubles! Of the handful of workarounds that I found on the web, [this one](http://www.crash-bang.com/resource/bootload-atmega328/) helped the most.  
 
 ## Resources

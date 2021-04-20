@@ -16,6 +16,8 @@ Here are links to the original Boarduino, other Boarduino-like products, and som
 2. [Really Bare Bones Board (RBBB) by Modern Device](https://moderndevice.com/product/rbbb-kit/). Their [document on assembly instructions](https://cdn.shopify.com/s/files/1/0038/9582/files/RBBB_Instructions_06.pdf?1260749296) includes a great how-to section for soldering novices.
 3. If the purple PCB in the video wasn't enough of a hint, I got the boards fabricated from [OSH Park](https://oshpark.com/)! 
 
+## Design Credit
+[@kalyaninagaraj](https://github.com/kalyaninagaraj)
 
 ## Hardware License
 The design files are made available under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

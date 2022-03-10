@@ -1,6 +1,6 @@
 # Boarduino Clone 
 <a href="https://github.com/kalyaninagaraj/Boarduino-Clone/blob/main/Images/topview.png"><img src="Images/topview.png?raw=true" width="400px"></a>&nbsp;&nbsp; <a href="https://github.com/kalyaninagaraj/Boarduino-Clone/blob/main/Images/bottomview.png"><img src="Images/bottomview.png?raw=true" width="400px"></a><br />
-This clone-of-a-clone is an adaption of the breadboard and through-hole parts-friendly [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3), a.k.a. [Boarduino by Lady Ada](https://learn.adafruit.com/boarduino-kits). 
+This clone-of-a-clone is an adaptation of the breadboard and through-hole parts-friendly [Arduino Uno](https://store.arduino.cc/usa/arduino-uno-rev3), a.k.a. [Boarduino by Lady Ada](https://learn.adafruit.com/boarduino-kits). 
 
 The orginal Boarduino was designed with a ceramic resonator in mind, which isn't available at my local electronics stores. So I redesigned the layout in [Autodesk EAGLE](https://www.autodesk.com/products/eagle) to make space for the more readily available crystal oscillator. 
 
